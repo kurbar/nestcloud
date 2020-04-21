@@ -1,5 +1,5 @@
 {
-  "name": "@nestcloud/config",
+  "name": "@nestcfork/config",
   "version": "0.7.4",
   "description": "NestCloud is a Node.js micro-service solution, writing by Typescript language and Nest.js.",
   "author": "Miaowing <i@zfeng.net>",
